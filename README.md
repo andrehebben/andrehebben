@@ -1,0 +1,4 @@
+I'm specialized as a full-stack developer, both in front-end and back-end technologies. I make all of that accessible and convenient for the site’s users and use powerful frameworks and libraries that can bring a user-focused website to life, platforms creatively to build better, more beautiful experiences for website and application visitors everywhere.
+
+Also I'm familiar with building a backend system. I have knowledge of coding languages, algorithms, basic understanding of the processes, structures., and a wide variety of programming tools. Also familiarized myself with the backend frameworks.
+javascript typescript html css jquery bootstrap react vuejs angularjs next nuxt mui tailwindcss less sass redux svelte threejs python nodejs php laravel codeigniter wordpress django mongodb mysql postgresql express redis ruby socketio spring sqlite yii zend java tomcat graphql solidity rust c vyper go mocha
