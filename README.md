@@ -55,4 +55,4 @@ Also familiarized myself with the backend frameworks.
     <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a>
 </div>
 
-<h3 align="left">Discord: Andy.ts#8329</h3>
+<h3 align="left">Discord: </h3>
