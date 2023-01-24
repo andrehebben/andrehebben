@@ -49,4 +49,4 @@ Also familiarized myself with the backend frameworks.
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a>
 
 
-[![Andre Hebben's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrehebben&theme=darcula&show_icons=true)](https://github.com/andrehebben/github-readme-stats)
+[![Andre Hebben's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrehebben&theme=merko&show_icons=true)](https://github.com/andrehebben/github-readme-stats)
