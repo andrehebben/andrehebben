@@ -61,7 +61,4 @@ Also familiarized myself with the backend frameworks.
 <img src="https://github-readme-stats.vercel.app/api?username=andrehebben&show_icons=true" />
 </picture>
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehebben&layout=compact)](https://github.com/andrehebben/github-readme-stats)
