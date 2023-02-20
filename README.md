@@ -2,9 +2,7 @@
 I'm specialized in full-stack development both front-end and back-end.
 I make all of that accessible and convenient for the site’s users and use powerful frameworks and libraries that can bring a user-focused website to life, platforms creatively to build better, more beautiful experiences for website and application visitors everywhere.
   
-Also I'm familiar with building a backend system.
-I have knowledge of coding languages, algorithms, basic understanding of the processes, structures., and a wide variety of programming tools.
-Also familiarized myself with the backend frameworks.
+Also I'm familiar with building a backend system. I have knowledge of coding languages, algorithms, basic understanding of the processes, structures., and a wide variety of programming tools. Also familiarized myself with the backend frameworks.
 
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
