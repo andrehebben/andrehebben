@@ -1,8 +1,8 @@
+As an IT Solutions Manager, I bring together my expertise in full-stack development to create seamless and user-friendly solutions for our clients. With a solid understanding of both front-end and back-end development, I leverage powerful frameworks and libraries to design websites and applications that are both functional and visually stunning.
 
-I'm specialized in full-stack development both front-end and back-end.
-I make all of that accessible and convenient for the site’s users and use powerful frameworks and libraries that can bring a user-focused website to life, platforms creatively to build better, more beautiful experiences for website and application visitors everywhere.
-  
-Also I'm familiar with building a backend system. I have knowledge of coding languages, algorithms, basic understanding of the processes, structures., and a wide variety of programming tools. More recently i delved into machine learning and AI
+Additionally, my experience in building and managing backend systems allows me to optimize our solutions for performance, security, and scalability. I have a deep understanding of coding languages, algorithms, and programming tools, which enables me to craft innovative solutions that meet our clients' unique needs.
+
+Recently, I have also been exploring the exciting field of machine learning and AI, and I am constantly looking for ways to incorporate these cutting-edge technologies into our solutions. Overall, I am committed to delivering exceptional IT solutions that help our clients achieve their goals and stay ahead of the competition.
 
 
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
