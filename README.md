@@ -1,6 +1,14 @@
-As an IT Solutions Manager, I bring together my expertise in full-stack development to create seamless and user-friendly solutions for our clients. With a solid understanding of both front-end and back-end development, I leverage powerful frameworks and libraries to design websites and applications that are both functional and visually stunning.
+# Andre Hebben
 
-Additionally, my experience in building and managing back-end systems allows me to optimize our solutions for performance, security, and scalability. I have a deep understanding of coding languages, algorithms, and programming tools, which enables me to craft innovative solutions that meet our clients' unique needs.
+IT Manager at INSIDE, working where software delivery, people, and practical operations meet.
 
-Recently, I have also been exploring the field of machine learning and AI, and I am constantly looking for ways to incorporate cutting-edge technologies into solutions. Overall, I am committed to delivering exceptional IT solutions that help our clients achieve their goals and stay ahead of the competition.
+I build and guide maintainable solutions across PHP, Python, Java, and JavaScript, with a strong focus on CI/CD, automation, and pragmatic systems that solve real problems without adding unnecessary moving parts.
 
+What I care about:
+
+- Clear delivery over busywork
+- Reliable systems over fragile cleverness
+- Useful automation over extra dashboards
+- Codebases that are understandable six months later
+
+More about my professional background: [linkedin.com/in/andrehebben](https://www.linkedin.com/in/andrehebben)
